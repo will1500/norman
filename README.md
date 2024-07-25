@@ -1,1 +1,2 @@
-# norman
+# awsplugin
+Salesforce aws plugin
