@@ -1,4 +1,4 @@
-Name: Salesforce plugin CI
+name: Salesforce plugin CI
  
 on:
    push:
